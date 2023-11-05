@@ -1,0 +1,108 @@
+.guy{
+    height: 320px;
+    position: relative;
+    bottom: 30px;
+    left: 560px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.mfas{
+    background-color: aquamarine;
+    width: 90vw;
+    margin-left: 10vh;
+    position: relative;
+    bottom: 100px;
+    height: 240px;
+    border-radius: 8px;
+    border: 1px solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.headingm{
+    position: relative;
+    font-size: 100px;
+    bottom: 260px;
+    left:330px ;
+
+}
+#one{
+    position: relative;
+    right: 100px;
+}
+#two{
+    position: relative;
+    left: 130px;
+}
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    height: 1500px;
+}
+.all div{
+    margin: 20px;
+}
+div.products-list{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+#wona{
+    position: relative;
+    left: 290px;
+}
+.wo{
+    position: relative;
+    right: 230px;
+}
+.wfas{
+    background-color: rgb(219, 154, 175);
+    width: 90vw;
+    margin-left: 10vh;
+    position: relative;
+    bottom: 100px;
+    height: 240px;
+    border-radius: 8px;
+    border: 1px solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.girl{
+    height: 320px;
+    position: relative;
+    left: 570px;
+    bottom: 30px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.womens{
+    display: flex;
+    justify-content: space-between;
+}
+.access{
+    background-color: rgb(207, 126, 76);
+    width: 90vw;
+    margin-left: 10vh;
+    position: relative;
+    bottom: 100px;
+    height: 240px;
+    border-radius: 8px;
+    border: 1px solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.hea{
+    font-size: 150px;
+    text-align: center;
+}
+.acc{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-bottom: 180px;
+    
+}
+.acc{
+    margin-top: 300px;
+}
